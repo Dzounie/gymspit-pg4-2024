@@ -1,0 +1,14 @@
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\bin\Debug\net7.0\FactoryClassRepresentation.exe
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\bin\Debug\net7.0\FactoryClassRepresentation.deps.json
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\bin\Debug\net7.0\FactoryClassRepresentation.runtimeconfig.json
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\bin\Debug\net7.0\FactoryClassRepresentation.dll
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\bin\Debug\net7.0\FactoryClassRepresentation.pdb
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.AssemblyInfoInputs.cache
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.AssemblyInfo.cs
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.dll
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\refint\FactoryClassRepresentation.dll
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.pdb
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\FactoryClassRepresentation.genruntimeconfig.cache
+C:\Users\Jonáš\OneDrive\Plocha\Úkoly na programko\FactoryClassRepresentation\obj\Debug\net7.0\ref\FactoryClassRepresentation.dll
